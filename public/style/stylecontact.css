@@ -1,0 +1,25 @@
+.header-cardcont{
+    background-color: grey;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    text-align: left;
+}
+.content-cardcont{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.wrap-cardcontact{
+    margin: 20px;
+    width: 33%;
+    margin-bottom: 280px;
+    border: 2px solid;
+    box-shadow: 5px 10px #f0bd17;;
+}
+.cont-address{
+    margin-left: 10px;
+}
+.header-cardcont p {
+    margin-left: 10px;
+}

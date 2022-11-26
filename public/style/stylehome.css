@@ -1,0 +1,27 @@
+.cont-card{
+    display: flex;
+    justify-content: center;
+}
+.header-card{
+    background-color: grey;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.wrap-card{
+    margin: 20px;
+    width: 61%;
+}
+.content-card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 100%;
+}
+.cssImageAdjust{
+    height: 700px;
+    object-fit: contain;
+}
+
